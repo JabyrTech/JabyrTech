@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JabyrTech
+- 👋 Hi, I’m @JabyrTech, founder and CEO of Jabyr Tech LTD
 - 👀 I’m interested in Python and robotics
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on Data science and AI
