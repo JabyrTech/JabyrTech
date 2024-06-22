@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JabyrTech, founder and CEO of Jabyr Tech LTD
-- 👀 I’m interested in Python and robotics
-- 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on Data science and AI
-- 📫 How to reach me: www.instagram.com/real_jabyr
+- 👋 Hi, I’m @JabyrTech, founder and CEO of JIX Technologies
+- 👀 I’m interested in Data science and AI
+- 🌱 I am currently working on Edtech Development
+- 💞️ I’m looking to collaborate on Tech Projects
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jabirnasirargungu or Instagram: https://www.instagram.com/real_jabyr
 
 <!---
 JabyrTech/JabyrTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
